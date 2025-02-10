@@ -1,0 +1,11 @@
+INFO: 2025/02/08 08:36:20 [store.go:43] Retrieved 50 products (total: 515) for page 1
+INFO: 2025/02/08 08:46:34 [store.go:43] Retrieved 50 products (total: 530) for page 1
+INFO: 2025/02/08 08:48:07 [store.go:43] Retrieved 10 products (total: 530) for page 1
+INFO: 2025/02/08 08:50:36 [store.go:43] Retrieved 10 products (total: 530) for page 1
+INFO: 2025/02/08 08:53:01 [store.go:43] Retrieved 50 products (total: 530) for page 1
+INFO: 2025/02/08 08:55:10 [store.go:43] Retrieved 50 products (total: 530) for page 1
+INFO: 2025/02/08 08:55:49 [store.go:43] Retrieved 49 products (total: 530) for page 1
+INFO: 2025/02/08 08:55:53 [store.go:43] Retrieved 48 products (total: 530) for page 1
+INFO: 2025/02/08 08:57:34 [store.go:43] Retrieved 800 products (total: 800) for page 1
+INFO: 2025/02/08 08:57:51 [store.go:43] Retrieved 799 products (total: 800) for page 1
+INFO: 2025/02/08 08:58:27 [store.go:43] Retrieved 10 products (total: 800) for page 1
